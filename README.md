@@ -1,6 +1,5 @@
 # popup
 simple style popup
-![confirm](https://github.com/KOMOhub/popup/blob/master/img/confirm.png)
 # SIMPLE POPUP
 
 使用前你需要自己包含jq库，同时我已在该文件中提供了一个jq链接。除此之外，你也可以使用链接包含该js文件
@@ -56,19 +55,21 @@ pop.password(“你好”,”请输入内容”function(e){alert(e);})
 ##样例
 ```
 prompt
-![prompt](https://github.com/KOMOhub/popup/blob/master/img/prompt.png)
 ```
+![prompt](https://github.com/KOMOhub/popup/blob/master/img/prompt.png)
+
 
 ```
 confirm
- 
+``` 
 ![confirm](https://github.com/KOMOhub/popup/blob/master/img/confirm.png)
-```
+
 ```
 alert
- ![alert](https://github.com/KOMOhub/popup/blob/master/img/alert.png)
 ```
+![alert](https://github.com/KOMOhub/popup/blob/master/img/alert.png)
+
 ```
 password
- ![password](https://github.com/KOMOhub/popup/blob/master/img/password.png)
 ```
+ ![password](https://github.com/KOMOhub/popup/blob/master/img/password.png)
