@@ -55,18 +55,19 @@ pop.password(“你好”,”请输入内容”function(e){alert(e);})
 ##样例
 ```
 prompt
- 
+![prompt](https://github.com/KOMOhub/popup/blob/master/img/prompt.png)
 ```
 
 ```
 confirm
  
+![confirm](https://github.com/KOMOhub/popup/blob/master/img/confirm.png)
 ```
 ```
 alert
- 
+ ![alert](https://github.com/KOMOhub/popup/blob/master/img/alert.png)
 ```
-··```
-Password
- 
+```
+password
+ ![password](https://github.com/KOMOhub/popup/blob/master/img/password.png)
 ```
