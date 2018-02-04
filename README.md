@@ -2,10 +2,9 @@
 simple style popup
 # SIMPLE POPUP
 
-使用前你需要自己包含jq库，同时我已在该文件中提供了一个jq链接。
-除此之外，你也可以使用链接包含该js文件
-链接为：
-http://www.funnywtx.xin/pub/Popup.js
+使用前你需要自己包含jq库，同时我已在该文件中提供了一个jq链接。除此之外，你也可以使用链接包含该js文件
+
+链接为：http://www.funnywtx.xin/pub/Popup.js
 
 ## API
 #### create object
@@ -58,6 +57,7 @@ pop.password(“你好”,”请输入内容”function(e){alert(e);})
 prompt
  
 ```
+
 ```
 confirm
  
