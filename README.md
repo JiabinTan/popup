@@ -61,7 +61,7 @@ prompt
 ```
 confirm
  
-![confirm](https://github.com/KOMOhub/popup/blob/master/img/confirm.png)
+！[confirm](https://github.com/KOMOhub/popup/blob/master/img/confirm.png)
 ```
 ```
 alert
